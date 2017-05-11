@@ -24,8 +24,11 @@ En algunos teléfonos, podrás ver alguna de las siguientes expresiones para ref
 NO debes elegir otra ubicación parecida (como "storage/sdcard1" (o 2, 3,...) ), porque corresponden a la tarjeta SD física que puede tener tu teléfono; si grabas la música ahí no podrás usarla en la aplicación.
 
 # Mejoras previstas
-Entre las mejoras posibles se encuentra la de almacenar las canciones en la tarjeta SD del móvil, pero por ahora sólo es posible escucharlas desde la memoria interna.
-Otra mejora prevista:  selección de temas de oración.
+Entre las mejoras posibles se encuentran:
+- versión de escritorio,
+- reproducción on-line,
+- almacenar las canciones en la tarjeta SD del móvil, pero por ahora sólo es posible escucharlas desde la memoria interna,
+- selección de temas de oración.
 
 # Beta 2
 Se añade un elemento extra para evitar que la aplicación entre en pausa, cortando la ejecución de las canciones.
