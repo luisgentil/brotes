@@ -6,7 +6,9 @@ La pausa puede variar entre 30 y 180 segundos, según elija el usuario.
 Las canciones deben estar en la memoria interna del teléfono, en una carpeta llamada "App_BrotesDeOlivo", situada en la raíz de la memoria interna. 
 La selección de música puede descargarse desde este repositorio, o bien desde Dropbox en la dirección https://www.dropbox.com/s/rqba0wm3rtu68i0/App_BrotesDeOlivo.zip?dl=1.
 
-La app está elaborada mediante la herramienta "App Inventor 2" del MIT, accesible en la dirección: http://ai2.appinventor.mit.edu.
+Esta versión (desfasada) de la app está elaborada mediante la herramienta "App Inventor 2" del MIT, accesible en la dirección: http://ai2.appinventor.mit.edu.
+
+Si deseas una versión optimizada, visita la versión Javascript, en (enlace).
 
 # Instalación
 Descarga la app (archivo .apk) en tu teléfono android. Al hacer click debe ofrecerte la opción de instalar, acepta.
@@ -25,10 +27,10 @@ NO debes elegir otra ubicación parecida (como "storage/sdcard1" (o 2, 3,...) ),
 
 # Mejoras previstas
 Entre las mejoras posibles se encuentran:
-- versión de escritorio,
-- reproducción on-line,
-- almacenar las canciones en la tarjeta SD del móvil, pero por ahora sólo es posible escucharlas desde la memoria interna,
-- selección de temas de oración.
+- versión de escritorio:  ya disponible en (provisional: luisgentil.neocities.org)
+- reproducción on-line: ya disponible desde la versión Javascript (enlace)
+- almacenar las canciones en la tarjeta SD del móvil (por ahora sólo es posible escucharlas desde la memoria interna): ya disponible en la versión Javascript (enlace)
+- selección de temas de oración: pendiente
 
 # Beta 2
 Se añade un elemento extra para evitar que la aplicación entre en pausa, cortando la ejecución de las canciones.
